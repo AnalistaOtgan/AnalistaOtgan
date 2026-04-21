@@ -1,6 +1,6 @@
-# 👋 AnalistaOtgan
+# AnalistaOtgan
 
-💻 Desenvolvo sistemas operacionais para negócios reais.
+Desenvolvo sistemas operacionais para negócios reais.
 
 ## Sobre mim
 Crio soluções práticas voltadas ao dia a dia operacional, transformando processos manuais em sistemas digitais simples, eficientes e acessíveis.
@@ -28,7 +28,7 @@ Organização e controle de processos internos.
 ## Missão
 Construir sistemas simples que aumentam eficiência, reduzem perdas e transformam dados em decisões claras.
 
-## 🛠️ Stack principal
+## Stack principal
 - Python
 - FastAPI
 - SQLite
@@ -37,4 +37,4 @@ Construir sistemas simples que aumentam eficiência, reduzem perdas e transforma
 
 ---
 
-💡 Menos complexidade. Mais resultado.
+Menos complexidade. Mais resultado.
