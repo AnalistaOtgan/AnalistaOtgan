@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 AnalistaOtgan
 
-<!--
-**AnalistaOtgan/AnalistaOtgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvo sistemas operacionais para negócios reais.
 
-Here are some ideas to get you started:
+## Sobre mim
+Crio soluções práticas voltadas ao dia a dia operacional, transformando processos manuais em sistemas digitais simples, eficientes e acessíveis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Principais projetos
+
+🔹 **RHConecta**  
+Plataforma para gestão de pessoas, feedback e desenvolvimento de equipe baseado em dados.
+
+🔹 **Agendaih**  
+Sistema inteligente de agendamento e comunicação automatizada.
+
+🔹 **ControleValidade**  
+Gestão de validade de produtos com foco em prevenção de perdas.
+
+🔹 **RegistroDePerda**  
+Controle e análise de perdas operacionais.
+
+🔹 **ConsultaNFe**  
+Ferramenta para consulta e conferência de notas fiscais.
+
+🔹 **Fluxo**  
+Organização e controle de processos internos.
+
+## Missão
+Construir sistemas simples que aumentam eficiência, reduzem perdas e transformam dados em decisões claras.
+
+## 🛠️ Stack principal
+- Python
+- FastAPI
+- SQLite
+- Excel (VBA, automações e análise)
+- Interfaces web leves
+
+---
+
+💡 Menos complexidade. Mais resultado.
