@@ -87,9 +87,8 @@
 | Projeto | O que é | Status |
 |---|---|---|
 | **[Axis](https://github.com/AnalistaOtgan/Axis)** | PDV para Windows com emissão de NFC-e, estoque e recursos fiscais | ![Last commit](https://img.shields.io/github/last-commit/AnalistaOtgan/Axis?style=flat-square&color=0B1220&label=%20) |
-| **[RHConecta](https://github.com/AnalistaOtgan/RHConecta)** | Plataforma de RH — contracheques, notificações em tempo real, RLS no Postgres | ![Last commit](https://img.shields.io/github/last-commit/AnalistaOtgan/RHConecta?style=flat-square&color=0B1220&label=%20) |
+| **[ConectaRH](https://github.com/AnalistaOtgan/RHConecta)** | Plataforma de RH — contracheques, notificações em tempo real, RLS no Postgres | ![Last commit](https://img.shields.io/github/last-commit/AnalistaOtgan/RHConecta?style=flat-square&color=0B1220&label=%20) |
 | **[Agendaih](https://github.com/AnalistaOtgan/Agendaih)** | Agendador de mensagens WhatsApp com recorrência e jobs em background | ![Last commit](https://img.shields.io/github/last-commit/AnalistaOtgan/Agendaih?style=flat-square&color=0B1220&label=%20) |
-| **[ConectaRH](https://github.com/AnalistaOtgan/ConectaRH)** | Módulos de atestados e parametrização de limites (PR em revisão) | ![Last commit](https://img.shields.io/github/last-commit/AnalistaOtgan/ConectaRH?style=flat-square&color=0B1220&label=%20) |
 | **[AAOM](https://github.com/AnalistaOtgan/AAOM)** | Orquestração de agentes LLM, visualização isométrica, motor de tarefas assíncronas | Em andamento |
 
 *(Badges de "último push" acima são ao vivo — sempre refletem o estado atual do repositório.)*
