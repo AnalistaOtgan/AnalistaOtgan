@@ -16,14 +16,17 @@
 
 > **Engenheiro de software** focado em sistemas operacionais para processos empresariais e automação operacional. Construo backend confiável, integrações robustas e interfaces web leves — para transformar processos manuais em fluxos digitais eficientes e auditáveis.
 
-- Design e entrega de sistemas para **RH, varejo (PDV), logística e operações internas**
-- Metodologia pragmática: entregas incrementais, testes automatizados, observabilidade, redução de atrito operacional
-- Foco pesado em integrações (webhooks, filas, adaptadores legados), conformidade fiscal/dados e resiliência (retries, circuit breakers)
-- Estudos de caso e produtos completos em **[otgan.com](https://otgan.com)**
+<img src="assets/icons/building.svg" width="16" height="16"/> Design e entrega de sistemas para **RH, varejo (PDV), logística e operações internas**
+<br/>
+<img src="assets/icons/cycle.svg" width="16" height="16"/> Metodologia pragmática: entregas incrementais, testes automatizados, observabilidade, redução de atrito operacional
+<br/>
+<img src="assets/icons/plug.svg" width="16" height="16"/> Foco pesado em integrações (webhooks, filas, adaptadores legados), conformidade fiscal/dados e resiliência (retries, circuit breakers)
+<br/>
+<img src="assets/icons/globe.svg" width="16" height="16"/> Estudos de caso e produtos completos em **[otgan.com](https://otgan.com)**
 
 <br/>
 
-## Stack técnico
+## <img src="assets/icons/stack.svg" width="20" height="20"/> Stack técnico
 
 <div align="center">
 
@@ -70,7 +73,7 @@
 
 <br/>
 
-## GitHub em números
+## <img src="assets/icons/stats.svg" width="20" height="20"/> GitHub em números
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AnalistaOtgan&show_icons=true&hide_border=true&bg_color=0B1220&title_color=93B4E3&text_color=E2E8F0&icon_color=93B4E3" height="165"/>
@@ -79,7 +82,7 @@
 
 <br/>
 
-## Destaques recentes
+## <img src="assets/icons/highlights.svg" width="20" height="20"/> Destaques recentes
 
 | Projeto | O que é | Status |
 |---|---|---|
@@ -93,10 +96,10 @@
 
 <br/>
 
-## Projetos em destaque
+## <img src="assets/icons/projects.svg" width="20" height="20"/> Projetos em destaque
 
 <details>
-<summary><b>Axis</b> — PDV para Windows (C#)</summary>
+<summary><img src="assets/icons/axis.svg" width="16" height="16"/> <b>Axis</b> — PDV para Windows (C#)</summary>
 <br/>
 
 Emissão de NFC-e integrada com Zeus.Net.NFe.NFCe, com documentação de refatoração, exemplos práticos, migrações e checklist de produção.
@@ -111,7 +114,7 @@ Repositório: [github.com/AnalistaOtgan/Axis](https://github.com/AnalistaOtgan/A
 </details>
 
 <details>
-<summary><b>RHConecta</b> — Plataforma de RH (TypeScript / Supabase / PLpgSQL)</summary>
+<summary><img src="assets/icons/rhconecta.svg" width="16" height="16"/> <b>RHConecta</b> — Plataforma de RH (TypeScript / Supabase / PLpgSQL)</summary>
 <br/>
 
 Distribuição automática de contracheques com parsing estruturado de PDFs, notificações in-app e push, RLS por instituição e funções RPC para operações críticas.
@@ -125,7 +128,7 @@ Repositório: [github.com/AnalistaOtgan/RHConecta](https://github.com/AnalistaOt
 </details>
 
 <details>
-<summary><b>Agendaih</b> — Agendador de mensagens WhatsApp (TypeScript / Next.js / Supabase)</summary>
+<summary><img src="assets/icons/agendaih.svg" width="16" height="16"/> <b>Agendaih</b> — Agendador de mensagens WhatsApp (TypeScript / Next.js / Supabase)</summary>
 <br/>
 
 Integração via Baileys (multi-device), agendamento com recorrência, dashboard e processamento por background jobs/cron.
@@ -137,7 +140,7 @@ Repositório: [github.com/AnalistaOtgan/Agendaih](https://github.com/AnalistaOtg
 </details>
 
 <details>
-<summary><b>ConectaRH</b> — Complemento ao RHConecta (PLpgSQL)</summary>
+<summary><img src="assets/icons/conectarh.svg" width="16" height="16"/> <b>ConectaRH</b> — Complemento ao RHConecta (PLpgSQL)</summary>
 <br/>
 
 Módulos para controle de atestados, políticas e parametrizações por tipo; arquitetura orientada a banco com regras de negócio centralizadas.
@@ -149,7 +152,7 @@ Repositório: [github.com/AnalistaOtgan/ConectaRH](https://github.com/AnalistaOt
 </details>
 
 <details>
-<summary><b>AAOM</b> — AI Agent Office Manager (TypeScript)</summary>
+<summary><img src="assets/icons/aaom.svg" width="16" height="16"/> <b>AAOM</b> — AI Agent Office Manager (TypeScript)</summary>
 <br/>
 
 Plataforma de orquestração de agentes LLM. Roadmap e implementação de múltiplos épicos: LLM Engine, agentes, orquestração de tasks, visualização isométrica (Phaser.js), otimizações de memória (TurboQuant) e MCP Gateway.
@@ -161,7 +164,7 @@ Repositório: [github.com/AnalistaOtgan/AAOM](https://github.com/AnalistaOtgan/A
 </details>
 
 <details>
-<summary><b>PortalEscolar (ELO)</b> — Portal escolar B2B (TypeScript / Firebase)</summary>
+<summary><img src="assets/icons/portalescolar.svg" width="16" height="16"/> <b>PortalEscolar (ELO)</b> — Portal escolar B2B (TypeScript / Firebase)</summary>
 <br/>
 
 MVP com módulos acadêmicos, comunicação, financeiro e assistente AI (Gemini/Inception). Roadmap de comercialização e estratégia SaaS.
@@ -173,7 +176,7 @@ Repositório: [github.com/AnalistaOtgan/PortalEscolar](https://github.com/Analis
 </details>
 
 <details>
-<summary><b>ConsultaNFe</b> — Consulta de notas fiscais (ASP.NET)</summary>
+<summary><img src="assets/icons/consultanfe.svg" width="16" height="16"/> <b>ConsultaNFe</b> — Consulta de notas fiscais (ASP.NET)</summary>
 <br/>
 
 Ferramenta utilitária para consulta e conferência de notas fiscais eletrônicas.
@@ -185,7 +188,7 @@ Repositório: [github.com/AnalistaOtgan/ConsultaNFe](https://github.com/Analista
 </details>
 
 <details>
-<summary><b>ControleValidade</b> — Controle de validade (JavaScript)</summary>
+<summary><img src="assets/icons/controlevalidade.svg" width="16" height="16"/> <b>ControleValidade</b> — Controle de validade (JavaScript)</summary>
 <br/>
 
 Aplicação para prevenção de perdas por controle de prazo e inventário básico.
@@ -197,7 +200,7 @@ Repositório: [github.com/AnalistaOtgan/ControleValidade](https://github.com/Ana
 </details>
 
 <details>
-<summary><b>RegistroDePerda</b> — Registro de perdas hortifrutícolas (TypeScript)</summary>
+<summary><img src="assets/icons/registrodeperda.svg" width="16" height="16"/> <b>RegistroDePerda</b> — Registro de perdas hortifrutícolas (TypeScript)</summary>
 <br/>
 
 Fluxos para registrar, auditar e analisar perdas operacionais.
@@ -209,7 +212,7 @@ Repositório: [github.com/AnalistaOtgan/RegistroDePerda](https://github.com/Anal
 </details>
 
 <details>
-<summary><b>Fluxo</b> — Gerenciador financeiro pessoal (TypeScript)</summary>
+<summary><img src="assets/icons/fluxo.svg" width="16" height="16"/> <b>Fluxo</b> — Gerenciador financeiro pessoal (TypeScript)</summary>
 <br/>
 
 Ferramenta pragmática para controle de orçamento e despesas pessoais.
@@ -222,7 +225,7 @@ Repositório: [github.com/AnalistaOtgan/Fluxo](https://github.com/AnalistaOtgan/
 
 <br/>
 
-## Como colaborar
+## <img src="assets/icons/collab.svg" width="20" height="20"/> Como colaborar
 
 1. **Issues** — abra uma descrevendo o objetivo, passos para reproduzir e resultado esperado
 2. **PRs** — fork, branch por feature, testes automatizados quando aplicável, descrição técnica clara
@@ -230,7 +233,7 @@ Repositório: [github.com/AnalistaOtgan/Fluxo](https://github.com/AnalistaOtgan/
 
 <br/>
 
-## Contato
+## <img src="assets/icons/contact.svg" width="20" height="20"/> Contato
 
 <div align="center">
 
