@@ -109,7 +109,7 @@ Emissão de NFC-e integrada com Zeus.Net.NFe.NFCe, com documentação de refator
 
 ![C#](https://img.shields.io/badge/C%23-0B1220?style=flat-square&logo=csharp&logoColor=E2E8F0) ![NFC-e](https://img.shields.io/badge/NFC--e-0B1220?style=flat-square)
 
-Repositório: [github.com/AnalistaOtgan/Axis](https://github.com/AnalistaOtgan/Axis) · Demo: [axis-tau-liard.vercel.app](https://axis-tau-liard.vercel.app)
+Repositório: [github.com/AnalistaOtgan/Axis](https://github.com/AnalistaOtgan/Axis)
 
 </details>
 
@@ -123,7 +123,7 @@ Distribuição automática de contracheques com parsing estruturado de PDFs, not
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-0B1220?style=flat-square&logo=typescript&logoColor=E2E8F0) ![Supabase](https://img.shields.io/badge/Supabase-0B1220?style=flat-square&logo=supabase&logoColor=E2E8F0) ![Capacitor](https://img.shields.io/badge/Capacitor-0B1220?style=flat-square&logo=capacitor&logoColor=E2E8F0)
 
-Repositório: [github.com/AnalistaOtgan/RHConecta](https://github.com/AnalistaOtgan/RHConecta) · Demo: [rh-conecta-lilac.vercel.app](https://rh-conecta-lilac.vercel.app)
+Repositório: [github.com/AnalistaOtgan/RHConecta](https://github.com/AnalistaOtgan/RHConecta) · Demo: [conectarh.otgan.com](https://conectarh.otgan.com)
 
 </details>
 
@@ -159,7 +159,7 @@ MVP com módulos acadêmicos, comunicação, financeiro e assistente AI (Gemini/
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-0B1220?style=flat-square&logo=typescript&logoColor=E2E8F0) ![Firebase](https://img.shields.io/badge/Firebase-0B1220?style=flat-square&logo=firebase&logoColor=E2E8F0)
 
-Repositório: [github.com/AnalistaOtgan/PortalEscolar](https://github.com/AnalistaOtgan/PortalEscolar) · Demo: [portal-escolar-alpha.vercel.app](https://portal-escolar-alpha.vercel.app)
+Repositório: [github.com/AnalistaOtgan/PortalEscolar](https://github.com/AnalistaOtgan/PortalEscolar) · Demo: [elo.otgan.com](https://elo.otgan.com)
 
 </details>
 
