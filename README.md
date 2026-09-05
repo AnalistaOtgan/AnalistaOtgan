@@ -114,7 +114,7 @@ Repositório: [github.com/AnalistaOtgan/Axis](https://github.com/AnalistaOtgan/A
 </details>
 
 <details>
-<summary><img src="assets/icons/rhconecta.svg" width="16" height="16"/> <b>RHConecta</b> — Plataforma de RH (TypeScript / Supabase / PLpgSQL)</summary>
+<summary><img src="assets/icons/rhconecta.svg" width="16" height="16"/> <b>Conectarh</b> — Plataforma de RH (TypeScript / Supabase / PLpgSQL)</summary>
 <br/>
 
 Distribuição automática de contracheques com parsing estruturado de PDFs, notificações in-app e push, RLS por instituição e funções RPC para operações críticas.
@@ -136,18 +136,6 @@ Integração via Baileys (multi-device), agendamento com recorrência, dashboard
 ![Next.js](https://img.shields.io/badge/Next.js-0B1220?style=flat-square&logo=nextdotjs&logoColor=E2E8F0) ![Baileys](https://img.shields.io/badge/Baileys-0B1220?style=flat-square&logo=whatsapp&logoColor=E2E8F0)
 
 Repositório: [github.com/AnalistaOtgan/Agendaih](https://github.com/AnalistaOtgan/Agendaih) · Demo: [agendaih-tau.vercel.app](https://agendaih-tau.vercel.app)
-
-</details>
-
-<details>
-<summary><img src="assets/icons/conectarh.svg" width="16" height="16"/> <b>ConectaRH</b> — Complemento ao RHConecta (PLpgSQL)</summary>
-<br/>
-
-Módulos para controle de atestados, políticas e parametrizações por tipo; arquitetura orientada a banco com regras de negócio centralizadas.
-
-![PLpgSQL](https://img.shields.io/badge/PL%2FpgSQL-0B1220?style=flat-square&logo=postgresql&logoColor=E2E8F0)
-
-Repositório: [github.com/AnalistaOtgan/ConectaRH](https://github.com/AnalistaOtgan/ConectaRH)
 
 </details>
 
