@@ -88,6 +88,7 @@
 |---|---|---|
 | **[Axis](https://github.com/AnalistaOtgan/Axis)** | PDV para Windows com emissão de NFC-e, estoque e recursos fiscais | ![Last commit](https://img.shields.io/github/last-commit/AnalistaOtgan/Axis?style=flat-square&color=0B1220&label=%20) |
 | **[ConectaRH](https://github.com/AnalistaOtgan/RHConecta)** | Plataforma de RH — contracheques, notificações em tempo real, RLS no Postgres | ![Last commit](https://img.shields.io/github/last-commit/AnalistaOtgan/RHConecta?style=flat-square&color=0B1220&label=%20) |
+| **[ELO](https://github.com/AnalistaOtgan/PortalEscolar)** | MVP com módulos acadêmicos, comunicação, financeiro e assistente AI (Gemini/Inception). Roadmap de comercialização e estratégia SaaS. | ![Last commit](https://img.shields.io/github/last-commit/AnalistaOtgan/Agendaih?style=flat-square&color=0B1220&label=%20) |
 | **[Agendaih](https://github.com/AnalistaOtgan/Agendaih)** | Agendador de mensagens WhatsApp com recorrência e jobs em background | ![Last commit](https://img.shields.io/github/last-commit/AnalistaOtgan/Agendaih?style=flat-square&color=0B1220&label=%20) |
 | **[AAOM](https://github.com/AnalistaOtgan/AAOM)** | Orquestração de agentes LLM, visualização isométrica, motor de tarefas assíncronas | Em andamento |
 
