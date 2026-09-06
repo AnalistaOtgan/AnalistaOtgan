@@ -16,17 +16,17 @@
 
 > **Engenheiro de software** focado em sistemas operacionais para processos empresariais e automação operacional. Construo backend confiável, integrações robustas e interfaces web leves — para transformar processos manuais em fluxos digitais eficientes e auditáveis.
 
-<img src="assets/icons/building.svg" width="16" height="16"/> Design e entrega de sistemas para **RH, varejo (PDV), logística e operações internas**
+<img src="https://raw.githubusercontent.com/AnalistaOtgan/AnalistaOtgan/main/assets/icons/building.svg" width="16" height="16"/> Design e entrega de sistemas para **RH, varejo (PDV), logística e operações internas**
 <br/>
-<img src="assets/icons/cycle.svg" width="16" height="16"/> Metodologia pragmática: entregas incrementais, testes automatizados, observabilidade, redução de atrito operacional
+<img src="https://raw.githubusercontent.com/AnalistaOtgan/AnalistaOtgan/main/assets/icons/cycle.svg" width="16" height="16"/> Metodologia pragmática: entregas incrementais, testes automatizados, observabilidade, redução de atrito operacional
 <br/>
-<img src="assets/icons/plug.svg" width="16" height="16"/> Foco pesado em integrações (webhooks, filas, adaptadores legados), conformidade fiscal/dados e resiliência (retries, circuit breakers)
+<img src="https://raw.githubusercontent.com/AnalistaOtgan/AnalistaOtgan/main/assets/icons/plug.svg" width="16" height="16"/> Foco pesado em integrações (webhooks, filas, adaptadores legados), conformidade fiscal/dados e resiliência (retries, circuit breakers)
 <br/>
-<img src="assets/icons/globe.svg" width="16" height="16"/> Estudos de caso e produtos completos em **[otgan.com](https://otgan.com)**
+<img src="https://raw.githubusercontent.com/AnalistaOtgan/AnalistaOtgan/main/assets/icons/globe.svg" width="16" height="16"/> Estudos de caso e produtos completos em **[otgan.com](https://otgan.com)**
 
 <br/>
 
-## <img src="assets/icons/stack.svg" width="20" height="20"/> Stack técnico
+## <img src="https://raw.githubusercontent.com/AnalistaOtgan/AnalistaOtgan/main/assets/icons/stack.svg" width="20" height="20"/> Stack técnico
 
 <div align="center">
 
@@ -74,36 +74,27 @@
 
 <br/>
 
-## <img src="assets/icons/stats.svg" width="20" height="20"/> GitHub em números
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AnalistaOtgan&show_icons=true&hide_border=true&bg_color=0B1220&title_color=93B4E3&text_color=E2E8F0&icon_color=93B4E3" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnalistaOtgan&layout=compact&hide_border=true&bg_color=0B1220&title_color=93B4E3&text_color=E2E8F0" height="165"/>
-</div>
-
-<br/>
-
-## <img src="assets/icons/highlights.svg" width="20" height="20"/> Destaques recentes
+## <img src="https://raw.githubusercontent.com/AnalistaOtgan/AnalistaOtgan/main/assets/icons/highlights.svg" width="20" height="20"/> Destaques recentes
 
 | Projeto | O que é | Status |
 |---|---|---|
-| **[Axis](https://github.com/AnalistaOtgan/Axis)** | PDV para Windows com emissão de NFC-e, estoque e recursos fiscais | ![Last commit](https://img.shields.io/github/last-commit/AnalistaOtgan/Axis?style=flat-square&color=0B1220&label=%20) |
-| **[ConectaRH](https://github.com/AnalistaOtgan/RHConecta)** | Plataforma de RH — contracheques, notificações em tempo real, RLS no Postgres | ![Last commit](https://img.shields.io/github/last-commit/AnalistaOtgan/RHConecta?style=flat-square&color=0B1220&label=%20) |
-| **[Trajetus](https://github.com/AnalistaOtgan/trajetus)** | Gestão inteligente de viagens, envelopes logísticos e auditoria para frotas | ![Last commit](https://img.shields.io/github/last-commit/AnalistaOtgan/trajetus?style=flat-square&color=0B1220&label=%20) |
-| **[ELO](https://github.com/AnalistaOtgan/PortalEscolar)** | Portal escolar B2B com módulos acadêmicos, comunicação e assistente AI | ![Last commit](https://img.shields.io/github/last-commit/AnalistaOtgan/PortalEscolar?style=flat-square&color=0B1220&label=%20) |
-| **[Agendaih](https://github.com/AnalistaOtgan/Agendaih)** | Agendador de mensagens WhatsApp com recorrência e jobs em background | ![Last commit](https://img.shields.io/github/last-commit/AnalistaOtgan/Agendaih?style=flat-square&color=0B1220&label=%20) |
-| **[Obsidian / Perímetro](https://github.com/AnalistaOtgan/Obsidian)** | Plataforma e app mobile de presença hiperlocal baseada em Proof-of-Presence | ![Last commit](https://img.shields.io/github/last-commit/AnalistaOtgan/Obsidian?style=flat-square&color=0B1220&label=%20) |
-| **[AgenteGroups](https://github.com/AnalistaOtgan/AgenteGroupsAfiliates)** | Agente autônomo de curadoria de ofertas com Groq AI, filas e WhatsApp | ![Last commit](https://img.shields.io/github/last-commit/AnalistaOtgan/AgenteGroupsAfiliates?style=flat-square&color=0B1220&label=%20) |
-| **[AAOM](https://github.com/AnalistaOtgan/AAOM)** | Orquestração de agentes LLM, visualização isométrica, motor de tarefas assíncronas | Em andamento |
+| **[Axis](https://github.com/AnalistaOtgan/Axis)** | PDV para Windows com emissão de NFC-e, estoque e recursos fiscais | ![Status](https://img.shields.io/badge/Status-Em_Produção-10B981?style=flat-square) |
+| **[ConectaRH](https://github.com/AnalistaOtgan/RHConecta)** | Plataforma de RH — contracheques, notificações em tempo real, RLS no Postgres | ![Status](https://img.shields.io/badge/Status-Em_Produção-10B981?style=flat-square) |
+| **[Trajetus](https://github.com/AnalistaOtgan/trajetus)** | Gestão inteligente de viagens, envelopes logísticos e auditoria para frotas | ![Status](https://img.shields.io/badge/Status-Em_Produção-10B981?style=flat-square) |
+| **[ELO](https://github.com/AnalistaOtgan/PortalEscolar)** | Portal escolar B2B com módulos acadêmicos, comunicação e assistente AI | ![Status](https://img.shields.io/badge/Status-MVP_Ativo-3B82F6?style=flat-square) |
+| **[Agendaih](https://github.com/AnalistaOtgan/Agendaih)** | Agendador de mensagens WhatsApp com recorrência e jobs em background | ![Status](https://img.shields.io/badge/Status-Em_Produção-10B981?style=flat-square) |
+| **[Obsidian / Perímetro](https://github.com/AnalistaOtgan/Obsidian)** | Plataforma e app mobile de presença hiperlocal baseada em Proof-of-Presence | ![Status](https://img.shields.io/badge/Status-MVP_Ativo-3B82F6?style=flat-square) |
+| **[AgenteGroups](https://github.com/AnalistaOtgan/AgenteGroupsAfiliates)** | Agente autômomo de curadoria de ofertas com Groq AI, filas e WhatsApp | ![Status](https://img.shields.io/badge/Status-MVP_Ativo-3B82F6?style=flat-square) |
+| **[AAOM](https://github.com/AnalistaOtgan/AAOM)** | Orquestração de agentes LLM, visualização isométrica, motor de tarefas assíncronas | ![Status](https://img.shields.io/badge/Status-Em_Andamento-F59E0B?style=flat-square) |
 
-*(Badges de "último push" acima são ao vivo — sempre refletem o estado atual do repositório.)*
+*(Soluções ativas com arquitetura e código mantidos pela Otgan Labs.)*
 
 <br/>
 
-## <img src="assets/icons/projects.svg" width="20" height="20"/> Projetos em destaque
+## <img src="https://raw.githubusercontent.com/AnalistaOtgan/AnalistaOtgan/main/assets/icons/projects.svg" width="20" height="20"/> Projetos em destaque
 
 <details>
-<summary><img src="assets/icons/axis.svg" width="16" height="16"/> <b>Axis</b> — PDV para Windows (C#)</summary>
+<summary><img src="https://raw.githubusercontent.com/AnalistaOtgan/AnalistaOtgan/main/assets/icons/axis.svg" width="16" height="16"/> <b>Axis</b> — PDV para Windows (C#)</summary>
 <br/>
 
 Emissão de NFC-e integrada com Zeus.Net.NFe.NFCe, com documentação de refatoração, exemplos práticos, migrações e checklist de produção.
@@ -118,7 +109,7 @@ Repositório: [github.com/AnalistaOtgan/Axis](https://github.com/AnalistaOtgan/A
 </details>
 
 <details>
-<summary><img src="assets/icons/rhconecta.svg" width="16" height="16"/> <b>Conectarh</b> — Plataforma de RH (TypeScript / Supabase / PLpgSQL)</summary>
+<summary><img src="https://raw.githubusercontent.com/AnalistaOtgan/AnalistaOtgan/main/assets/icons/rhconecta.svg" width="16" height="16"/> <b>Conectarh</b> — Plataforma de RH (TypeScript / Supabase / PLpgSQL)</summary>
 <br/>
 
 Distribuição automática de contracheques com parsing estruturado de PDFs, notificações in-app e push, RLS por instituição e funções RPC para operações críticas.
@@ -132,7 +123,7 @@ Repositório: [github.com/AnalistaOtgan/RHConecta](https://github.com/AnalistaOt
 </details>
 
 <details>
-<summary><img src="assets/icons/agendaih.svg" width="16" height="16"/> <b>Agendaih</b> — Agendador de mensagens WhatsApp (TypeScript / Next.js / Supabase)</summary>
+<summary><img src="https://raw.githubusercontent.com/AnalistaOtgan/AnalistaOtgan/main/assets/icons/agendaih.svg" width="16" height="16"/> <b>Agendaih</b> — Agendador de mensagens WhatsApp (TypeScript / Next.js / Supabase)</summary>
 <br/>
 
 Integração via Baileys (multi-device), agendamento com recorrência, dashboard e processamento por background jobs/cron.
@@ -144,7 +135,7 @@ Repositório: [github.com/AnalistaOtgan/Agendaih](https://github.com/AnalistaOtg
 </details>
 
 <details>
-<summary><img src="assets/icons/aaom.svg" width="16" height="16"/> <b>AAOM</b> — AI Agent Office Manager (TypeScript)</summary>
+<summary><img src="https://raw.githubusercontent.com/AnalistaOtgan/AnalistaOtgan/main/assets/icons/aaom.svg" width="16" height="16"/> <b>AAOM</b> — AI Agent Office Manager (TypeScript)</summary>
 <br/>
 
 Plataforma de orquestração de agentes LLM. Roadmap e implementação de múltiplos épicos: LLM Engine, agentes, orquestração de tasks, visualização isométrica (Phaser.js), otimizações de memória (TurboQuant) e MCP Gateway.
@@ -156,7 +147,7 @@ Repositório: [github.com/AnalistaOtgan/AAOM](https://github.com/AnalistaOtgan/A
 </details>
 
 <details>
-<summary><img src="assets/icons/portalescolar.svg" width="16" height="16"/> <b>PortalEscolar (ELO)</b> — Portal escolar B2B (TypeScript / Firebase)</summary>
+<summary><img src="https://raw.githubusercontent.com/AnalistaOtgan/AnalistaOtgan/main/assets/icons/portalescolar.svg" width="16" height="16"/> <b>PortalEscolar (ELO)</b> — Portal escolar B2B (TypeScript / Firebase)</summary>
 <br/>
 
 MVP com módulos acadêmicos, comunicação, financeiro e assistente AI (Gemini/Inception). Roadmap de comercialização e estratégia SaaS.
@@ -168,7 +159,7 @@ Repositório: [github.com/AnalistaOtgan/PortalEscolar](https://github.com/Analis
 </details>
 
 <details>
-<summary><img src="assets/icons/trajetus.svg" width="16" height="16"/> <b>Trajetus</b> — Gestão de viagens e frotas (TypeScript / Supabase / Android)</summary>
+<summary><img src="https://raw.githubusercontent.com/AnalistaOtgan/AnalistaOtgan/main/assets/icons/trajetus.svg" width="16" height="16"/> <b>Trajetus</b> — Gestão de viagens e frotas (TypeScript / Supabase / Android)</summary>
 <br/>
 
 Plataforma integrada para frotas e transporte de cargas com digitalização de envelopes operacionais, rotas e auditoria de despesas.
@@ -184,7 +175,7 @@ Repositório: [github.com/AnalistaOtgan/trajetus](https://github.com/AnalistaOtg
 </details>
 
 <details>
-<summary><img src="assets/icons/obsidian.svg" width="16" height="16"/> <b>Obsidian & Perímetro</b> — Presença hiperlocal e Proof-of-Presence (React / Kotlin / Android)</summary>
+<summary><img src="https://raw.githubusercontent.com/AnalistaOtgan/AnalistaOtgan/main/assets/icons/obsidian.svg" width="16" height="16"/> <b>Obsidian & Perímetro</b> — Presença hiperlocal e Proof-of-Presence (React / Kotlin / Android)</summary>
 <br/>
 
 Ecossistema mobile e web para validação de presença física em eventos e conexões presenciais reais (B2B2C).
@@ -200,7 +191,7 @@ Repositórios: [github.com/AnalistaOtgan/Obsidian](https://github.com/AnalistaOt
 </details>
 
 <details>
-<summary><img src="assets/icons/agentegroups.svg" width="16" height="16"/> <b>AgenteGroups (Achadinhos)</b> — Agente autônomo de afiliados (Node.js / TypeScript / SQLite)</summary>
+<summary><img src="https://raw.githubusercontent.com/AnalistaOtgan/AnalistaOtgan/main/assets/icons/agentegroups.svg" width="16" height="16"/> <b>AgenteGroups (Achadinhos)</b> — Agente autônomo de afiliados (Node.js / TypeScript / SQLite)</summary>
 <br/>
 
 Pipeline autônomo para coleta, curadoria inteligente e distribuição de ofertas com inteligência artificial.
@@ -216,7 +207,7 @@ Repositório: [github.com/AnalistaOtgan/AgenteGroupsAfiliates](https://github.co
 </details>
 
 <details>
-<summary><img src="assets/icons/cartazfacil.svg" width="16" height="16"/> <b>CartazFácil (PlacaCartaz)</b> — Gerador de cartazes promocionais em lote (TypeScript / PDF Engine)</summary>
+<summary><img src="https://raw.githubusercontent.com/AnalistaOtgan/AnalistaOtgan/main/assets/icons/cartazfacil.svg" width="16" height="16"/> <b>CartazFácil (PlacaCartaz)</b> — Gerador de cartazes promocionais em lote (TypeScript / PDF Engine)</summary>
 <br/>
 
 Ferramenta operacional de PDV para importação em lote e diagramação automática de cartazes e placas de preço para supermercados.
@@ -232,7 +223,7 @@ Repositório: [github.com/AnalistaOtgan/CartazFacil](https://github.com/Analista
 </details>
 
 <details>
-<summary><img src="assets/icons/consultanfe.svg" width="16" height="16"/> <b>ConsultaNFe</b> — Consulta de notas fiscais (ASP.NET)</summary>
+<summary><img src="https://raw.githubusercontent.com/AnalistaOtgan/AnalistaOtgan/main/assets/icons/consultanfe.svg" width="16" height="16"/> <b>ConsultaNFe</b> — Consulta de notas fiscais (ASP.NET)</summary>
 <br/>
 
 Ferramenta utilitária para consulta e conferência de notas fiscais eletrônicas.
@@ -244,7 +235,7 @@ Repositório: [github.com/AnalistaOtgan/ConsultaNFe](https://github.com/Analista
 </details>
 
 <details>
-<summary><img src="assets/icons/controlevalidade.svg" width="16" height="16"/> <b>ControleValidade</b> — Controle de validade (JavaScript)</summary>
+<summary><img src="https://raw.githubusercontent.com/AnalistaOtgan/AnalistaOtgan/main/assets/icons/controlevalidade.svg" width="16" height="16"/> <b>ControleValidade</b> — Controle de validade (JavaScript)</summary>
 <br/>
 
 Aplicação para prevenção de perdas por controle de prazo e inventário básico.
@@ -256,7 +247,7 @@ Repositório: [github.com/AnalistaOtgan/ControleValidade](https://github.com/Ana
 </details>
 
 <details>
-<summary><img src="assets/icons/registrodeperda.svg" width="16" height="16"/> <b>RegistroDePerda</b> — Registro de perdas hortifrutícolas (TypeScript)</summary>
+<summary><img src="https://raw.githubusercontent.com/AnalistaOtgan/AnalistaOtgan/main/assets/icons/registrodeperda.svg" width="16" height="16"/> <b>RegistroDePerda</b> — Registro de perdas hortifrutícolas (TypeScript)</summary>
 <br/>
 
 Fluxos para registrar, auditar e analisar perdas operacionais.
@@ -268,7 +259,7 @@ Repositório: [github.com/AnalistaOtgan/RegistroDePerda](https://github.com/Anal
 </details>
 
 <details>
-<summary><img src="assets/icons/fluxo.svg" width="16" height="16"/> <b>Fluxo</b> — Gerenciador financeiro pessoal (TypeScript)</summary>
+<summary><img src="https://raw.githubusercontent.com/AnalistaOtgan/AnalistaOtgan/main/assets/icons/fluxo.svg" width="16" height="16"/> <b>Fluxo</b> — Gerenciador financeiro pessoal (TypeScript)</summary>
 <br/>
 
 Ferramenta pragmática para controle de orçamento e despesas pessoais.
@@ -280,7 +271,7 @@ Repositório: [github.com/AnalistaOtgan/Fluxo](https://github.com/AnalistaOtgan/
 </details>
 
 <details>
-<summary><img src="assets/icons/repp.svg" width="16" height="16"/> <b>REP-P Conecta</b> — Coletor mobile de ponto eletrônico (Kotlin / Jetpack Compose / SQLCipher)</summary>
+<summary><img src="https://raw.githubusercontent.com/AnalistaOtgan/AnalistaOtgan/main/assets/icons/repp.svg" width="16" height="16"/> <b>REP-P Conecta</b> — Coletor mobile de ponto eletrônico (Kotlin / Jetpack Compose / SQLCipher)</summary>
 <br/>
 
 Aplicativo Android nativo para registro eletrônico de ponto em conformidade com a Portaria 671 MTE (REP-P).
@@ -296,7 +287,7 @@ Repositório: [github.com/AnalistaOtgan/REP-P-Conecta](https://github.com/Analis
 </details>
 
 <details>
-<summary><img src="assets/icons/codequant.svg" width="16" height="16"/> <b>CodeQuant (TurboQuantizador)</b> — Compressão semântica de código (Python / Information Theory)</summary>
+<summary><img src="https://raw.githubusercontent.com/AnalistaOtgan/AnalistaOtgan/main/assets/icons/codequant.svg" width="16" height="16"/> <b>CodeQuant (TurboQuantizador)</b> — Compressão semântica de código (Python / Information Theory)</summary>
 <br/>
 
 Pipeline de compressão semântica de repositórios para agentes de IA, baseado na formulação do TurboQuant (Google Research, ICLR 2026).
@@ -312,7 +303,7 @@ Status: Solução experimental / P&D arquitetural
 </details>
 
 <details>
-<summary><img src="assets/icons/consinco.svg" width="16" height="16"/> <b>Consinco Auto</b> — RPA e automação operacional de ERP (Python)</summary>
+<summary><img src="https://raw.githubusercontent.com/AnalistaOtgan/AnalistaOtgan/main/assets/icons/consinco.svg" width="16" height="16"/> <b>Consinco Auto</b> — RPA e automação operacional de ERP (Python)</summary>
 <br/>
 
 Solução de automação local para processamento analítico de exportações de dados do ERP Consinco / TOTVS.
@@ -328,7 +319,7 @@ Status: Automação operacional interna
 </details>
 
 <details>
-<summary><img src="assets/icons/crossselling.svg" width="16" height="16"/> <b>Relacionamento de Produtos</b> — Mineração de cesta de compras & Cross-Selling (Python / SQLite)</summary>
+<summary><img src="https://raw.githubusercontent.com/AnalistaOtgan/AnalistaOtgan/main/assets/icons/crossselling.svg" width="16" height="16"/> <b>Relacionamento de Produtos</b> — Mineração de cesta de compras & Cross-Selling (Python / SQLite)</summary>
 <br/>
 
 Engine de mineração de dados para varejo supermercadista focada em regras de associação e afinidade de compras.
@@ -344,7 +335,7 @@ Status: Solução analítica / Business Insights
 </details>
 
 <details>
-<summary><img src="assets/icons/quantum.svg" width="16" height="16"/> <b>OtganQuantum</b> — Smart contracts & tokenomics com Merkle Claim (Solidity / Hardhat)</summary>
+<summary><img src="https://raw.githubusercontent.com/AnalistaOtgan/AnalistaOtgan/main/assets/icons/quantum.svg" width="16" height="16"/> <b>OtganQuantum</b> — Smart contracts & tokenomics com Merkle Claim (Solidity / Hardhat)</summary>
 <br/>
 
 Conjunto de smart contracts explorando mecanismos monetários com proteção quântica e sorteio on-chain.
@@ -360,7 +351,7 @@ Repositório: [github.com/AnalistaOtgan/OtganQuantum](https://github.com/Analist
 </details>
 
 <details>
-<summary><img src="assets/icons/globe.svg" width="16" height="16"/> <b>Fornecedores CEASA</b> — Gestão e cotação de hortifrúti (TypeScript / Vercel Serverless / LibSQL)</summary>
+<summary><img src="https://raw.githubusercontent.com/AnalistaOtgan/AnalistaOtgan/main/assets/icons/globe.svg" width="16" height="16"/> <b>Fornecedores CEASA</b> — Gestão e cotação de hortifrúti (TypeScript / Vercel Serverless / LibSQL)</summary>
 <br/>
 
 Plataforma serverless para gestão de cotações dinâmicas de preços e mapeamento de fornecedores e produtores da CEASA.
@@ -376,7 +367,7 @@ Repositório: [github.com/AnalistaOtgan/FornecedoresCEASA](https://github.com/An
 
 <br/>
 
-## <img src="assets/icons/collab.svg" width="20" height="20"/> Como colaborar
+## <img src="https://raw.githubusercontent.com/AnalistaOtgan/AnalistaOtgan/main/assets/icons/collab.svg" width="20" height="20"/> Como colaborar
 
 1. **Issues** — abra uma descrevendo o objetivo, passos para reproduzir e resultado esperado
 2. **PRs** — fork, branch por feature, testes automatizados quando aplicável, descrição técnica clara
@@ -384,7 +375,7 @@ Repositório: [github.com/AnalistaOtgan/FornecedoresCEASA](https://github.com/An
 
 <br/>
 
-## <img src="assets/icons/contact.svg" width="20" height="20"/> Contato
+## <img src="https://raw.githubusercontent.com/AnalistaOtgan/AnalistaOtgan/main/assets/icons/contact.svg" width="20" height="20"/> Contato
 
 <div align="center">
 
